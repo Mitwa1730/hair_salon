@@ -1,0 +1,10 @@
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\bin\Debug\Lab2B.exe.config
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\bin\Debug\Lab2B.exe
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\bin\Debug\Lab2B.pdb
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.csproj.AssemblyReference.cache
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.Properties.Resources.resources
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.csproj.GenerateResource.cache
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.csproj.CoreCompileInputs.cache
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.exe
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.pdb
+D:\Software support course-558\SEMESTER_3\Programming in .NET\Assignment2\Lab2B\obj\Debug\Lab2B.Form1.resources
